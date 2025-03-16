@@ -63,4 +63,9 @@ header {
 
 footer {
   text-align: center;
+  font-size: .8rem;
+}
+
+#disclaimer {
+  font-size: .5rem;
 }
