@@ -24,6 +24,7 @@ p {
 }
 
 body {
+  box-sizing: border-box;
   background-color: lightblue;
 }
 
@@ -43,8 +44,16 @@ header {
 }
 
 .catImage {
+  display: block;
   max-width: 100%;
+  margin: 0;
+  padding: 0;
   object-fit: contain;
+}
+
+#image-box-right {
+  margin-right: 0;
+  padding-right: 0;
 }
 
 .btn-box {
@@ -52,6 +61,13 @@ header {
   justify-content: center;
   align-content: center;
   margin: 100px 10px;
+}
+
+button {
+  display: block;
+  white-space: preserve nowrap;
+  width: 100%;
+  font-size: .75rem;
 }
 
 #content {
