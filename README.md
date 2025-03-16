@@ -2,7 +2,7 @@
 For this assignment, create a small project of your choice and push it to GitHub. The project idea is up to you. Use this as a chance to practice a concept you feel like you need to practice. You can also use this as an opportunity to take what you've learned so far and apply it to something you are passionate about.
 
 ## Project - Them Kitties
-![Website](./img/website.png)
+![Website](img/website.PNG)
 A small website called 'Them Kitties' that has a photo carousel (sorta). Because this is supposed to be just a small practice project, I didn't really do anything special for Accessibility.  Sorry!
 
 Demonstrates:
